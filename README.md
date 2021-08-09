@@ -1,4 +1,4 @@
-# Nerver-Hakathon-Git-0
+# Nervos-Hakathon-Git-0
 
 1. A screenshot of the console output from your local Testnet CKB Node after it has fully synchronized with the network.
 ![image](https://user-images.githubusercontent.com/83104296/128728235-14a154f8-85ab-4773-98da-708b3405150f.png)
